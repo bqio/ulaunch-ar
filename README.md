@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">Atelier Ryza [uLaunch]</h1>
 <p align="center">
-  <a href="https://github.com/bqio/ulaunch-ar/releases"><img src="https://img.shields.io/github/downloads/bqio/ulaunch-ar/total.svg" alt="NPM downloads"></a>
+  <a href="https://github.com/bqio/ulaunch-ar/releases">
+    <img src="https://img.shields.io/github/downloads/bqio/ulaunch-ar/total.svg">
+  </a>
 </p>
 
 # Thanks
