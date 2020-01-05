@@ -3,5 +3,29 @@
 </p>
 <h1 align="center">Atelier Ryza [uLaunch]</h1>
 <p align="center">
-  Coming soon
+  <a href="https://github.com/bqio/ulaunch-ar/releases">Download</a>
 </p>
+
+# Thanks
+* icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+* created using [uLaunch Previewer](https://github.com/IcosaSwitch/uLaunch-Previewer)
+
+# Screenshots
+
+## Startup menu
+![Startup menu](screenshots/StartupMenu.png)
+
+## Main menu
+![Main menu](screenshots/MainMenu.png)
+
+## Quick menu
+![Quick menu](screenshots/QuickMenu.png)
+
+## Settings menu
+![Settings menu](screenshots/SettingsMenu.png)
+
+## Languages menu
+![Languages menu](screenshots/LanguagesMenu.png)
+
+## Themes menu
+![Themes menu](screenshots/ThemesMenu.png)
